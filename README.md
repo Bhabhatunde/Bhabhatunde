@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhabhatunde
-- 👀 I’m interested in R
-- 🌱 I’m currently learning Data cleaning
+- 👀 I’m interested in R and python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data analytics
 - 📫 How to reach me babatundejola08@gmail.com
 - 
