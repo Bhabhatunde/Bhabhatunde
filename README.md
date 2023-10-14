@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Bhabhatunde
-- 👀 I’m interested in R and python
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Babatunde Jolayemi from Nigeria, and I'm a Data Analyst.
+- Ireally enjoy learning programming languages, among which is R and python.
 - 💞️ I’m looking to collaborate on Data analytics
-- 📫 How to reach me babatundejola08@gmail.com
+- 📫 I can be contacted through babatundejola08@gmail.com
 - 
 
 <!---
