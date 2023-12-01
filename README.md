@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Babatunde Jolayemi from Nigeria, and I'm a Data Analyst.
-- Ireally enjoy learning programming languages, among which is R and python.
-- 💞️ I’m looking to collaborate on Data analytics
-- 📫 I can be contacted through babatundejola08@gmail.com
-- 
-
-<!---
-Bhabhatunde/Bhabhatunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love what I do, and I do what I love.
+I am a data detective, a seasoned Analyst from Nigeria.
+My tools are fascinating and effective.
+I love R and Python.
+Open for collaboration: babatundejolayemi08@gmail.com, (+234)08025127620
